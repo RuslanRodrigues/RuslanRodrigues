@@ -25,7 +25,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Ruslan, um entusiasta de programação e 
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RuslanRodrigues_icons=true&hide_title=true&count_private=true&hide=prs,issues,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuslanRodrigues_icons=true&theme=transparent)
 
 Espero que goste do que encontrar por aqui! Sinta-se à vontade para explorar meus repositórios e entrar em contato. 😊
 
