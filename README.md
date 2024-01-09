@@ -1,10 +1,10 @@
 # Olá! 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou [Ruslan], um entusiasta de programação e tecnologia com base em Brasília-DF.
+Bem-vindo ao meu perfil do GitHub! Sou Ruslan, um entusiasta de programação e tecnologia com base em Brasília-DF.
 
 ## Sobre Mim
 
-- 🎓 Estudante de [Sistemas de Informação].
+- 🎓 Estudante de Sistemas de Informação.
 - 💻 Apaixonado por programação, especialmente em PHP.
 - 🕹️ Amante de jogos e entusiasta de computadores gamers.
 
@@ -15,10 +15,7 @@ Bem-vindo ao meu perfil do GitHub! Sou [Ruslan], um entusiasta de programação 
 
 ## Projetos Destacados
 
-- [Nome do Projeto 1](Link para o Projeto)
-  - Breve descrição do projeto.
-- [Nome do Projeto 2](Link para o Projeto)
-  - Breve descrição do projeto.
+- Embreve.
 
 ## Contato
 
